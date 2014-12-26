@@ -1,8 +1,8 @@
 'use strict'
 
 require.config ({
-	baseUrl: '/wp-content/themes/smpl-skeleton-child/app',
-//	baseUrl: 'app/',
+//	baseUrl: '/wp-content/themes/smpl-skeleton-child/app',
+	baseUrl: 'app/',
 	
 	paths:{
 			module		: './modules',
